@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>angular-block-ui</id>
         <version>0.0.10</version>
         <title>Angular BlockUI</title>
         <authors>Mike Alsup,Null McNull,Jaans</authors>
-        <projectUrl>http://angularjs.org</projectUrl>
+        <projectUrl>https://github.com/Jaans/angularjs-block-ui-nuget</projectUrl>
         <iconUrl>https://secure.gravatar.com/avatar/6e1b5ab3ef1593413f1bee4e5a6e6ae7?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>The jQuery BlockUI Plugin from Mika Alsup, wrapped in an AngularJS Directive.</description>
-        <releaseNotes />
+        <description>The jQuery BlockUI Plugin from Mika Alsup, wrapped in an AngularJS Directive by Null McNull, packaged into NuGet by Jaans.</description>
+        <releaseNotes>Refer to McNull's GitHub page for details:
+https://github.com/McNull/angular-block-ui</releaseNotes>
         <copyright />
         <tags>blockUI block-ui angular angularjs SPA jquery</tags>
     </metadata>
