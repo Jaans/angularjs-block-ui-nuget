@@ -2,9 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>angular-block-ui</id>
-        <version>0.0.10</version>
+        <version>0.0.11</version>
         <title>Angular BlockUI</title>
         <authors>Mike Alsup,Null McNull,Jaans</authors>
+        <owners>Mike Alsup,Null McNull,Jaans</owners>
         <projectUrl>https://github.com/Jaans/angularjs-block-ui-nuget</projectUrl>
         <iconUrl>https://secure.gravatar.com/avatar/6e1b5ab3ef1593413f1bee4e5a6e6ae7?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -15,7 +16,10 @@ https://github.com/McNull/angular-block-ui</releaseNotes>
         <tags>blockUI block-ui angular angularjs SPA jquery</tags>
     </metadata>
     <files>
-        <file src="content\Content\_._" target="content\Content\_._" />
-        <file src="content\Scripts\_._" target="content\Scripts\_._" />
+        <file src="Content\angular-block-ui.css" target="content\Content\angular-block-ui.css" />
+        <file src="Content\angular-block-ui.min.css" target="content\Content\angular-block-ui.min.css" />
+        <file src="Scripts\angular-block-ui.js" target="content\Scripts\angular-block-ui.js" />
+        <file src="Scripts\angular-block-ui.min.js" target="content\Scripts\angular-block-ui.min.js" />
+        <file src="Scripts\angular-block-ui.min.js.map" target="content\Scripts\angular-block-ui.min.js.map" />
     </files>
 </package>
