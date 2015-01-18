@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>angular-block-ui</id>
-        <version>0.0.11</version>
+        <version>0.1.2</version>
         <title>Angular BlockUI</title>
         <authors>Null McNull,Jaans</authors>
         <owners>Null McNull,Jaans</owners>
@@ -17,8 +17,10 @@ https://github.com/McNull/angular-block-ui</releaseNotes>
     </metadata>
     <files>
         <file src="Content\angular-block-ui.css" target="content\Content\angular-block-ui.css" />
+        <file src="Content\angular-block-ui.css.map" target="content\Content\angular-block-ui.css.map" />
         <file src="Content\angular-block-ui.min.css" target="content\Content\angular-block-ui.min.css" />
         <file src="Scripts\angular-block-ui.js" target="content\Scripts\angular-block-ui.js" />
+        <file src="Scripts\angular-block-ui.js.map" target="content\Scripts\angular-block-ui.js.map" />
         <file src="Scripts\angular-block-ui.min.js" target="content\Scripts\angular-block-ui.min.js" />
         <file src="Scripts\angular-block-ui.min.js.map" target="content\Scripts\angular-block-ui.min.js.map" />
     </files>
